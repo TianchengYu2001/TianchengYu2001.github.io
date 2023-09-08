@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a third year undergraduate student from [School of Physics](https://phy.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes structure and physical properties of new energy materials and STEM.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Physics](https://phy.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Physics](https://phy.pku.edu.cn/), Peking University. I was advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Physics](https://phy.pku.edu.cn/), Peking University.
 
 You can find my CV here: [Tiancheng Yu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
