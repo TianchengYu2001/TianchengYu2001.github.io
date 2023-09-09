@@ -18,9 +18,9 @@ You can find my CV here: [Tiancheng Yu's Curriculum Vitae](../assets/Curriculum_
 
 Preprints
 ======
-Ruixue Zhu ‡ , Sizheng Zheng ‡ , Xiaomei Li ‡ , Tao Wang ‡ , Congbing Tan * , **Tiancheng Yu** , Zhetong Liu , Xinqiang Wang , Jiangyu Li * , Jie Wang * , Peng Gao *, “Atomic-Scale Tracking Phase Transition Dynamics of Berezinskii-Kosterlitz-Thouless Polar Vortex-Antivortex” 
+Ruixue Zhu ‡ , Sizheng Zheng ‡ , Xiaomei Li ‡ , Tao Wang ‡ , Congbing Tan * , **<u>Tiancheng Yu</u>** , Zhetong Liu , Xinqiang Wang , Jiangyu Li * , Jie Wang * , Peng Gao *, “Atomic-Scale Tracking Phase Transition Dynamics of Berezinskii-Kosterlitz-Thouless Polar Vortex-Antivortex” 
 [https://arxiv.org/abs/2308.07583](https://arxiv.org/abs/2308.07583)
 
-Peizhao Li † , **Tiancheng Yu †** , Xuechang Tu , Han Yan , Wei Wang , Luqun Zhou *, “Experiments on Phase Transition of Faraday Waves with Xantham Gum Solutions”
+Peizhao Li † , **<u>Tiancheng Yu †</u>** , Xuechang Tu , Han Yan , Wei Wang , Luqun Zhou *, “Experiments on Phase Transition of Faraday Waves with Xantham Gum Solutions”
 [https://www.researchgate.net/publication/373411670_Experiments_on_Phase_Transition_of_Faraday_Waves_with_Xantham_Gum_Solutions](https://www.researchgate.net/publication/373411670_Experiments_on_Phase_Transition_of_Faraday_Waves_with_Xantham_Gum_Solutions)
 
