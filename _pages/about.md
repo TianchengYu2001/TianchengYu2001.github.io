@@ -22,5 +22,5 @@ Ruixue Zhu ‡ , Sizheng Zheng ‡ , Xiaomei Li ‡ , Tao Wang ‡ , Congbing Ta
 [https://arxiv.org/abs/2308.07583](https://arxiv.org/abs/2308.07583)
 
 Peizhao Li † , **Tiancheng Yu †** , Xuechang Tu , Han Yan , Wei Wang , Luqun Zhou *, “Experiments on Phase Transition of Faraday Waves with Xantham Gum Solutions”
-[https://arxiv.org/abs/2305.06690](https://arxiv.org/abs/2305.06690)
+[https://www.researchgate.net/publication/373411670_Experiments_on_Phase_Transition_of_Faraday_Waves_with_Xantham_Gum_Solutions](https://www.researchgate.net/publication/373411670_Experiments_on_Phase_Transition_of_Faraday_Waves_with_Xantham_Gum_Solutions)
 
