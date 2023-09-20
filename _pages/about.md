@@ -20,9 +20,7 @@ Preprints
 ======
 <img src="../images/fig1.png" alt="Figure 1">
 
-Ruixue Zhu=, Sizheng Zheng=, Xiaomei Li=, Tao Wang=, Congbing Tan*, 
-<span style="text-decoration: underline;">Tiancheng Yu-</span>, <br>
-Zhetong Liu, Xinqiang Wang, Jiangyu Li*, Jie Wang*, Peng Gao*, <br>
+Ruixue Zhu=, Sizheng Zheng=, Xiaomei Li=, Tao Wang=, Congbing Tan*, Tiancheng Yu, Zhetong Liu, Xinqiang Wang, Jiangyu Li*, Jie Wang*, Peng Gao*, <br>
 <i>Atomic-Scale Tracking Phase Transition Dynamics of Berezinskii-Kosterlitz-Thouless Polar Vortex-Antivortex</i>, **arXiv** 2308.07583 (2023). 
 [weblink](https://arxiv.org/abs/2308.07583)
 
