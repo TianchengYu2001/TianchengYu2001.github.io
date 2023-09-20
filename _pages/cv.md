@@ -37,34 +37,40 @@ Work experience
   
 Preprints
 ======
-Ruixue Zhu=, Sizheng Zheng=, Xiaomei Li=, Tao Wang=, Congbing Tan*, 
-<span style="text-decoration: underline;">Tiancheng Yu</span>, Zhetong Liu, Xinqiang Wang, Jiangyu Li*, Jie Wang*, Peng Gao*, <br>
-<i>Atomic-Scale Tracking Phase Transition Dynamics of Berezinskii-Kosterlitz-Thouless Polar Vortex-Antivortex</i>, **arXiv** 2308.07583 (2023). 
+<img src="../images/fig1.png" alt="Figure 1">
+
+Ruixue Zhu=, Sizheng Zheng=, Xiaomei Li=, Tao Wang=, Congbing Tan*, <span style="text-decoration: underline;">Tiancheng Yu=</span>, Zhetong Liu, Xinqiang Wang, Jiangyu Li*, Jie Wang*, Peng Gao*, Atomic-Scale Tracking Phase Transition Dynamics of Berezinskii-Kosterlitz-Thouless Polar Vortex-Antivortex, **arXiv** 2308.07583 (2023). 
 [weblink](https://arxiv.org/abs/2308.07583)
 
 
-Peizhao Li=, <span style="text-decoration: underline;">Tiancheng Yu=</span>, Xuechang Tu, Han Yan, Wei Wang, Luqun Zhou*,<br>
-<i>Experiments on Phase Transition of Faraday Waves with Xantham Gum Solutions</i>, **arXiv** 2305.06690 (2023). [weblink](https://www.researchgate.net/publication/373411670_Experiments_on_Phase_Transition_of_Faraday_Waves_with_Xantham_Gum_Solutions)
+<img src="../images/fig2.png" alt="Figure 2">
+
+Peizhao Li=, <span style="text-decoration: underline;">Tiancheng Yu=</span>, Xuechang Tu, Han Yan, Wei Wang, Luqun Zhou*, <i>Experiments on Phase Transition of Faraday Waves with Xantham Gum Solutions</i>,
+**arXiv** 2305.06690 (2023). 
+[weblink](https://www.researchgate.net/publication/373411670_Experiments_on_Phase_Transition_of_Faraday_Waves_with_Xantham_Gum_Solutions)
 
 Honors and Awards
 ======
-• ? Scholarship
-<span style="float: right;">Sept 2023</span></p>
-• Peking University “Merit Student Pacesetter” Award
-<span style="float: right;">Sept 2023</span></p>
-• Peking University Challenge Cup Excellence Award
-<span style="float: right;">June 2023</span></p>
-• Third Prize in 8th National College Student Physics Experiment Competition (Innovation Group)
-<span style="float: right;">Dec 2022</span></p>
-• School of Physics Weiming Scholarship
-<span style="float: right;">June 2022 & Sept 2023</span></p>
-• Peking University Academic Excellence Award
-<span style="float: right;">Sept 2021</span></p>
-• School of Physics Shen Keqi Scholarship
-<span style="float: right;">Sept 2021</span></p>
-• Silver Medal in the 36th China Physics Olympics final
-<span style="float: right;">Hangzhou, China, Nov 2019</span></p>
+ **•** ? Scholarship
+<span style="float: right;">Sept 2023</span>
 
+ **•** Peking University “Merit Student Pacesetter” Award
+<span style="float: right;">Sept 2023</span>
+
+ **•** Peking University Challenge Cup Excellence Award
+<span style="float: right;">June 2023</span>
+
+ **•** School of Physics Weiming Scholarship
+<span style="float: right;">June 2022 & Sept 2023</span>
+
+ **•** Peking University Academic Excellence Award
+<span style="float: right;">Sept 2021</span>
+
+ **•** School of Physics Shen Keqi Scholarship
+<span style="float: right;">Sept 2021</span>
+
+ **•** Silver Medal in the 36th China Physics Olympics final
+<span style="float: right;">Hangzhou, China, Nov 2019</span>
 
 Talks at Seminars
 ======
@@ -90,20 +96,21 @@ Talks at Seminars
 
 Synergistic Activities and Outreach
 ======
-**• Volunteer Member**<br>
+ **• Volunteer Member**<br>
 <i>Three Bodies</i> Creative Team's Visit to Peking University, <i>March 2023</i>.<br>
 Peking University Winter Break Returning to Hometown Promotion, <i>Jan 2023</i>.<br>
 Zhejiang Provincial Division of the Peking University Admissions Office, <i>June 2022</i>.
 
-**• Billiards Team Member**, Peking University School of Physics Billiards Team, <i>Oct 2020 - April 2023</i>.<br>
-Champion (First Team) and Round of Sixteen (Second Team) in <i>PKU Cup Billiards Championship 2021</i>.<br>
-Octo-finalist (First Team) and Round of Sixteen (Second Team) in <i>PKU Cup Billiards Championship 2022</i>.<br>
-**• Publicity Department Officer**, Peking University Billiards Association, <i>Sept 2021 - March 2022</i>.
+ **• Billiards Team Member**, Peking University School of Physics Billiards Team, <i>Oct 2020 - April 2023</i>.<br>
+PKU Cup Billiards Championship<br>
+Champion (First Team) and Round of Sixteen (Second Team), 2021.<br>
+Octo-finalist (First Team) and Round of Sixteen (Second Team), 2022.<br>.<br>
+ **• Publicity Department Officer**, Peking University Billiards Association, <i>Sept 2021 - March 2022</i>.
 
-**•** Peking University Hundred-Kilometer Relay Race Competition<br>
+ **•** Peking University Hundred-Kilometer Relay Race Competition<br>
 Team 7th Place (2021), Team 4th Place (2022), Team 10th Place (2023).
 
-**•** Logo Design Contest<br>
+ **•** Logo Design Contest<br>
 Peking University Physics 110th Anniversary Logo Design Contest, Ranked Second in Votes.<br>
 Selected Peking University Physics Department's 2021 Logo Design Contest.<br>
 Selected for Mellower Coffee 10th Anniversary Logo Design Contest.
