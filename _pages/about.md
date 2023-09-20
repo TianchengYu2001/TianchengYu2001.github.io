@@ -33,18 +33,25 @@ Honors and Awards
 ======
 • ? Scholarship
 <span style="float: right;">Sept 2023</span></p>
+
 • Peking University “Merit Student Pacesetter” Award
 <span style="float: right;">Sept 2023</span></p>
+
 • Peking University Challenge Cup Excellence Award
 <span style="float: right;">June 2023</span></p>
+
 • Third Prize in 8th National College Student Physics Experiment Competition (Innovation Group)
 <span style="float: right;">Dec 2022</span></p>
+
 • School of Physics Weiming Scholarship
 <span style="float: right;">June 2022 & Sept 2023</span></p>
+
 • Peking University Academic Excellence Award
 <span style="float: right;">Sept 2021</span></p>
+
 • School of Physics Shen Keqi Scholarship
 <span style="float: right;">Sept 2021</span></p>
+
 • Silver Medal in the 36th China Physics Olympics final
 <span style="float: right;">Hangzhou, China, Nov 2019</span></p>
 
