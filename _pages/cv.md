@@ -15,14 +15,24 @@ Education
 
 Work experience
 ======
-* Fall 2023: Online
+* 2022 – 2023: Research Assistant
+  * Peking University
+  * Duties included: Experiments of Faraday Patterns.
+  * Supervisor: Associate Professor Luqun Zhou
+
+* 2022 – 2023: Research Assistant
+  * Peking University
+  * Duties included: Superlattice, bicrystal, SPhP.
+  * Supervisor: Associate Professor Luqun Zhou
+
+* 2023: Online Research Assistant
   * Rice University
-  * Duties included: Processing 4D-STEM data
+  * Duties included: Processing 4D-STEM data.
   * Supervisor: AP Yimo Han
 
-* Fall 2023: Research Assistant
+* 2023 - 2024: Research Assistant
   * Harvard University
-  * Duties included: ?
+  * Duties included: Li Batteries.
   * Supervisor: Associate Professor Xin Li
   
 Preprints
