@@ -20,7 +20,8 @@ Preprints
 ======
 <img src="../images/fig1.png" alt="Figure 1">
 Ruixue Zhu=, Sizheng Zheng=, Xiaomei Li=, Tao Wang=, Congbing Tan*, 
-<span style="text-decoration: underline;">Tiancheng Yu</span>, Zhetong Liu, Xinqiang Wang, Jiangyu Li*, Jie Wang*, Peng Gao*, <br>
+<span style="text-decoration: underline;">Tiancheng Yu-</span>, <br>
+Zhetong Liu, Xinqiang Wang, Jiangyu Li*, Jie Wang*, Peng Gao*, <br>
 <i>Atomic-Scale Tracking Phase Transition Dynamics of Berezinskii-Kosterlitz-Thouless Polar Vortex-Antivortex</i>, **arXiv** 2308.07583 (2023). 
 [weblink](https://arxiv.org/abs/2308.07583)
 
@@ -32,29 +33,28 @@ Peizhao Li=, <span style="text-decoration: underline;">Tiancheng Yu=</span>, Xue
 Honors and Awards
 ======
 • ? Scholarship
-<span style="float: right;">Sept 2023</span></p>
+<span style="float: right;">Sept 2023</span>
 
 • Peking University “Merit Student Pacesetter” Award
-<span style="float: right;">Sept 2023</span></p>
+<span style="float: right;">Sept 2023</span>
 
 • Peking University Challenge Cup Excellence Award
-<span style="float: right;">June 2023</span></p>
+<span style="float: right;">June 2023</span>
 
 • Third Prize in 8th National College Student Physics Experiment Competition (Innovation Group)
-<span style="float: right;">Dec 2022</span></p>
+<span style="float: right;">Dec 2022</span>
 
 • School of Physics Weiming Scholarship
-<span style="float: right;">June 2022 & Sept 2023</span></p>
+<span style="float: right;">June 2022 & Sept 2023</span>
 
 • Peking University Academic Excellence Award
-<span style="float: right;">Sept 2021</span></p>
+<span style="float: right;">Sept 2021</span>
 
 • School of Physics Shen Keqi Scholarship
-<span style="float: right;">Sept 2021</span></p>
+<span style="float: right;">Sept 2021</span>
 
 • Silver Medal in the 36th China Physics Olympics final
-<span style="float: right;">Hangzhou, China, Nov 2019</span></p>
-
+<span style="float: right;">Hangzhou, China, Nov 2019</span>
 
 Talks at Seminars
 ======
