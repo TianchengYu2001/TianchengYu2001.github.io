@@ -7,13 +7,13 @@ author_profile: true
 
 <img src="../images/fig1.png" alt="Figure 1">
 
-Ruixue Zhu=, Sizheng Zheng=, Xiaomei Li=, Tao Wang=, Congbing Tan*, 
-<span style="text-decoration: underline;">Tiancheng Yu</span>, Zhetong Liu, Xinqiang Wang, Jiangyu Li*, Jie Wang*, Peng Gao*, <br>
-<i>Atomic-Scale Tracking Phase Transition Dynamics of Berezinskii-Kosterlitz-Thouless Polar Vortex-Antivortex</i>, **arXiv** 2308.07583 (2023). 
+Ruixue Zhu=, Sizheng Zheng=, Xiaomei Li=, Tao Wang=, Congbing Tan*, <span style="text-decoration: underline;">Tiancheng Yu=</span>, Zhetong Liu, Xinqiang Wang, Jiangyu Li*, Jie Wang*, Peng Gao*, Atomic-Scale Tracking Phase Transition Dynamics of Berezinskii-Kosterlitz-Thouless Polar Vortex-Antivortex, **arXiv** 2308.07583 (2023). 
 [weblink](https://arxiv.org/abs/2308.07583)
 
 
 <img src="../images/fig2.png" alt="Figure 2">
 
-Peizhao Li=, <span style="text-decoration: underline;">Tiancheng Yu=</span>, Xuechang Tu, Han Yan, Wei Wang, Luqun Zhou*,<br>
-<i>Experiments on Phase Transition of Faraday Waves with Xantham Gum Solutions</i>, **arXiv** 2305.06690 (2023). [weblink](https://www.researchgate.net/publication/373411670_Experiments_on_Phase_Transition_of_Faraday_Waves_with_Xantham_Gum_Solutions)
+Peizhao Li=, <span style="text-decoration: underline;">Tiancheng Yu=</span>, Xuechang Tu, Han Yan, Wei Wang, Luqun Zhou*, <i>Experiments on Phase Transition of Faraday Waves with Xantham Gum Solutions</i>,
+**arXiv** 2305.06690 (2023). 
+[weblink](https://www.researchgate.net/publication/373411670_Experiments_on_Phase_Transition_of_Faraday_Waves_with_Xantham_Gum_Solutions)
+
