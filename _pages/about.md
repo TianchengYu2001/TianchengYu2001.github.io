@@ -77,20 +77,21 @@ Talks at Seminars
 
 Synergistic Activities and Outreach
 ======
-**• Volunteer Member**<br>
+** • Volunteer Member**<br>
 <i>Three Bodies</i> Creative Team's Visit to Peking University, <i>March 2023</i>.<br>
 Peking University Winter Break Returning to Hometown Promotion, <i>Jan 2023</i>.<br>
 Zhejiang Provincial Division of the Peking University Admissions Office, <i>June 2022</i>.
 
-**• Billiards Team Member**, Peking University School of Physics Billiards Team, <i>Oct 2020 - April 2023</i>.<br>
-Champion (First Team) and Round of Sixteen (Second Team) in <i>PKU Cup Billiards Championship 2021</i>.<br>
-Octo-finalist (First Team) and Round of Sixteen (Second Team) in <i>PKU Cup Billiards Championship 2022</i>.<br>
-**• Publicity Department Officer**, Peking University Billiards Association, <i>Sept 2021 - March 2022</i>.
+** • Billiards Team Member**, Peking University School of Physics Billiards Team, <i>Oct 2020 - April 2023</i>.<br>
+PKU Cup Billiards Championship<br>
+Champion (First Team) and Round of Sixteen (Second Team), 2021.<br>
+Octo-finalist (First Team) and Round of Sixteen (Second Team), 2022.<br>.<br>
+** • Publicity Department Officer**, Peking University Billiards Association, <i>Sept 2021 - March 2022</i>.
 
-**•** Peking University Hundred-Kilometer Relay Race Competition<br>
+** • **Peking University Hundred-Kilometer Relay Race Competition<br>
 Team 7th Place (2021), Team 4th Place (2022), Team 10th Place (2023).
 
-**•** Logo Design Contest<br>
+** • **Logo Design Contest<br>
 Peking University Physics 110th Anniversary Logo Design Contest, Ranked Second in Votes.<br>
 Selected Peking University Physics Department's 2021 Logo Design Contest.<br>
 Selected for Mellower Coffee 10th Anniversary Logo Design Contest.
