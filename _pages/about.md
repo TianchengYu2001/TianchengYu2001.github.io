@@ -36,25 +36,25 @@ Peizhao Li=, <span style="text-decoration: underline;">Tiancheng Yu=</span>, Xue
 
 Honors and Awards
 ======
-** • **? Scholarship
+ **•** ? Scholarship
 <span style="float: right;">Sept 2023</span>
 
-** • **Peking University “Merit Student Pacesetter” Award
+ **•** Peking University “Merit Student Pacesetter” Award
 <span style="float: right;">Sept 2023</span>
 
-** • **Peking University Challenge Cup Excellence Award
+ **•** Peking University Challenge Cup Excellence Award
 <span style="float: right;">June 2023</span>
 
-** • **School of Physics Weiming Scholarship
+ **•** School of Physics Weiming Scholarship
 <span style="float: right;">June 2022 & Sept 2023</span>
 
-** • **Peking University Academic Excellence Award
+ **•** Peking University Academic Excellence Award
 <span style="float: right;">Sept 2021</span>
 
-** • **School of Physics Shen Keqi Scholarship
+ **•** School of Physics Shen Keqi Scholarship
 <span style="float: right;">Sept 2021</span>
 
-** • **Silver Medal in the 36th China Physics Olympics final
+ **•** Silver Medal in the 36th China Physics Olympics final
 <span style="float: right;">Hangzhou, China, Nov 2019</span>
 
 Talks at Seminars
@@ -81,21 +81,21 @@ Talks at Seminars
 
 Synergistic Activities and Outreach
 ======
-** • Volunteer Member**<br>
+ **• Volunteer Member**<br>
 <i>Three Bodies</i> Creative Team's Visit to Peking University, <i>March 2023</i>.<br>
 Peking University Winter Break Returning to Hometown Promotion, <i>Jan 2023</i>.<br>
 Zhejiang Provincial Division of the Peking University Admissions Office, <i>June 2022</i>.
 
-** • Billiards Team Member**, Peking University School of Physics Billiards Team, <i>Oct 2020 - April 2023</i>.<br>
+ **• Billiards Team Member**, Peking University School of Physics Billiards Team, <i>Oct 2020 - April 2023</i>.<br>
 PKU Cup Billiards Championship<br>
 Champion (First Team) and Round of Sixteen (Second Team), 2021.<br>
 Octo-finalist (First Team) and Round of Sixteen (Second Team), 2022.<br>.<br>
-** • Publicity Department Officer**, Peking University Billiards Association, <i>Sept 2021 - March 2022</i>.
+ **• Publicity Department Officer**, Peking University Billiards Association, <i>Sept 2021 - March 2022</i>.
 
-** • **Peking University Hundred-Kilometer Relay Race Competition<br>
+ **•** Peking University Hundred-Kilometer Relay Race Competition<br>
 Team 7th Place (2021), Team 4th Place (2022), Team 10th Place (2023).
 
-** • **Logo Design Contest<br>
+ **•** Logo Design Contest<br>
 Peking University Physics 110th Anniversary Logo Design Contest, Ranked Second in Votes.<br>
 Selected Peking University Physics Department's 2021 Logo Design Contest.<br>
 Selected for Mellower Coffee 10th Anniversary Logo Design Contest.
