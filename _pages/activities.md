@@ -24,7 +24,7 @@ PKU Cup Billiards Championship<br>
 Champion (First Team) and Round of Sixteen (Second Team), 2021.<br>
 Octo-finalist (First Team) and Round of Sixteen (Second Team), 2022.<br>
  **• Publicity Department Officer**, Peking University Billiards Association, <i>Sept 2021 - March 2022</i>.
- <img src="../images/billiards.png" alt="billiards">
+ <img src="../images/billiards.jpg" alt="billiards">
 
  **•** Peking University Hundred-Kilometer Relay Race Competition<br>
 Team 7th Place (<i>2021</i>), Team 4th Place (<i>2022</i>), Team 10th Place (<i>2023</i>).
