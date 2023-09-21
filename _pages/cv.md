@@ -96,7 +96,9 @@ Octo-finalist (First Team) and Round of Sixteen (Second Team), 2022.<br>.<br>
  **•** Peking University Hundred-Kilometer Relay Race Competition<br>
 Team 7th Place (2021), Team 4th Place (2022), Team 10th Place (2023).
 
- **•** Logo Design Contest<br>
-Peking University Physics 110th Anniversary Logo Design Contest, Ranked Second in Votes.<br>
-Selected Peking University Physics Department's 2021 Logo Design Contest.<br>
-Selected for Mellower Coffee 10th Anniversary Logo Design Contest.
+ **•** Logo Design<br>
+Physics at Peking University 110th Anniversary Logo.<br>
+Peking University, School of Physics 2021 Yard Shirt Logo.<br>
+National College Student Physics Experiment Competition (Innovation Group) Group Logo.<br>
+Peking University Mellower Coffee 10th Anniversary Logo Design.
+<img src="../images/logo.png" alt="logo">
