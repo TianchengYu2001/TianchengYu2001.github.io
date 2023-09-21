@@ -68,7 +68,7 @@ Talks at Seminars
 
 <span style="text-decoration: underline;">Tiancheng Yu</span>, Peizhao Li, Ou Zhe, <i>Quantitative Study of Parametric Resonance and the Kapitza Pendulum</i>, **Innovative Physics Experiments, Peking University**, <i>Nov 2022</i>.
 
-<span style="text-decoration: underline;">Tiancheng Yu</span>, <i>Reaction diffusion equation, turing patterns, and dissipative systems</i>, **Equilibrium Statistical Physics Seminar, Peking University**, <i>Nov 2022</i>.
+<span style="text-decoration: underline;">Tiancheng Yu</span>, <i>Reaction diffusion equation, Turing patterns, and dissipative systems</i>, **Equilibrium Statistical Physics Seminar, Peking University**, <i>Nov 2022</i>.
 
 <span style="text-decoration: underline;">Tiancheng Yu</span>, <i>BKT phase transition and its manifestation in 2D ferroelectric superlattice systems</i>, **Equilibrium Statistical Physics Seminar, Peking University**, <i>Sep 2022</i>.
 
