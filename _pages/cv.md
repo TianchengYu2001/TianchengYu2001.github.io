@@ -23,7 +23,7 @@ Work experience
 * 2022 – 2023: Research Assistant
   * Peking University
   * Duties included: Superlattice, bicrystal, SPhP.
-  * Supervisor: Associate Professor Luqun Zhou
+  * Supervisor: Professor Peng Gao
 
 * 2023: Online Research Assistant
   * Rice University
