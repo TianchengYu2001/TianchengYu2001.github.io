@@ -18,7 +18,7 @@ Zhejiang Provincial Division of the Peking University Admissions Office <span st
 PKUPOA 4th City Orienteering Event <span style="float: right;">May 2022</span><br>
 Peking University Winter Sports Meeting Opening Ceremony <span style="float: right;">Jan 2022</span><br>
 Peking University Youth Astronomy Association Meteor Shower Observation Event <span style="float: right;">Dec 2021</span><br>
-Peking University Youth Astronomy Association Jupiter, Mars, and Uranus Observation Event <span style="float: right;">Sept 2021</span>
+Peking University Youth Astronomy Association Jupiter, Mars, and Uranus Observation Event <span style="float: right;">Sept 2021</span><br>
 Peking University Book Relay Event <span style="float: right;">Sept 2020 & Sept 2021 & Sept 2022</span>
 
  **• Billiards Team Member**
