@@ -37,7 +37,7 @@ Honors and Awards
  **•** ? Scholarship
 <span style="float: right;">Sept 2023</span>
 
- **•** Peking University “Merit Student Pacesetter” Award
+ **•** Peking University “Merit Student” Award
 <span style="float: right;">Sept 2023</span>
 
  **•** Peking University Challenge Cup Excellence Award
