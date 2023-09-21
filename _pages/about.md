@@ -28,7 +28,7 @@ Zhetong Liu, Xinqiang Wang, Jiangyu Li&#42;, Jie Wang&#42;, Peng Gao&#42;,
 
 <img src="../images/fig2.png" alt="Figure 2">
 
-Peizhao Li<sup>=</sup>, <span style="text-decoration: underline;">Tiancheng Yu<sup>=</sup></span>, Xuechang Tu, Han Yan, Wei Wang, Luqun Zhou&#42;, <i>Experiments on Phase Transition of Faraday Waves with Xantham Gum Solutions</i>,
+Peizhao Li<sup>=</sup>, <span style="text-decoration: underline;">Tiancheng Yu</span><sup>=</sup>, Xuechang Tu, Han Yan, Wei Wang, Luqun Zhou&#42;, <i>Experiments on Phase Transition of Faraday Waves with Xantham Gum Solutions</i>,
 **arXiv** 2305.06690 (2023). 
 [weblink](https://www.researchgate.net/publication/373411670_Experiments_on_Phase_Transition_of_Faraday_Waves_with_Xantham_Gum_Solutions)
 
