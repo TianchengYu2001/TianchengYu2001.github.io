@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I am Tiancheng Yu (俞天成, pronounced as Tea-en-chung Yoo). I'm a fourth year undergraduate student from [School of Physics](https://phy.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes structure and physical properties of new energy materials and 4D-STEM.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of XXX](https://phy.pku.edu.cn/), XXX University. I was advised by [Prof. PengGao](https://scholar.google.com/citations?hl=en&user=JQLol_0AAAAJ) of International Center for Quantum Materials from [School of Physics](https://phy.pku.edu.cn/), Peking University.
+I am very fortunate to be advised by [Prof. Xin Li](https://scholar.harvard.edu/lixin) from [School of Engineering and Applied Science](https://seas.harvard.edu/), Harvard University. I was advised by [Prof. PengGao](https://scholar.google.com/citations?hl=en&user=JQLol_0AAAAJ) of International Center for Quantum Materials from [School of Physics](https://phy.pku.edu.cn/), Peking University.
 
 You can find my CV here: [Tiancheng Yu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
