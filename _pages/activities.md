@@ -19,7 +19,7 @@ Zhejiang Provincial Division of the Peking University Admissions Office, <i>June
  **• Billiards Team Member**, Peking University School of Physics Billiards Team, <i>Oct 2020 - April 2023</i>.<br>
 PKU Cup Billiards Championship<br>
 Champion (First Team) and Round of Sixteen (Second Team), 2021.<br>
-Octo-finalist (First Team) and Round of Sixteen (Second Team), 2022.<br>.<br>
+Octo-finalist (First Team) and Round of Sixteen (Second Team), 2022.<br>
  **• Publicity Department Officer**, Peking University Billiards Association, <i>Sept 2021 - March 2022</i>.
 
  **•** Peking University Hundred-Kilometer Relay Race Competition<br>
