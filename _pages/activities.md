@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Synergistic Activities and Outreach
-======
  **• Volunteer Member**<br>
 <i>Three Bodies</i> Creative Team's Visit to Peking University, <i>March 2023</i>.<br>
 Peking University Winter Break Returning to Hometown Promotion, <i>Jan 2023</i>.<br>
