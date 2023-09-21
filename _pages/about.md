@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I am Tiancheng Yu (俞天成, pronounced as Tea-en-chung Yoo). I'm a fourth year undergraduate student from [School of Physics](https://phy.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes structure and physical properties of new energy materials and 4D-STEM.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Physics](https://phy.pku.edu.cn/), Peking University. I was advised by [Prof. PengGao](https://scholar.google.com/citations?hl=en&user=JQLol_0AAAAJ) of International Center for Quantum Materials from [School of Physics](https://phy.pku.edu.cn/), Peking University.
+I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of XXX](https://phy.pku.edu.cn/), XXX University. I was advised by [Prof. PengGao](https://scholar.google.com/citations?hl=en&user=JQLol_0AAAAJ) of International Center for Quantum Materials from [School of Physics](https://phy.pku.edu.cn/), Peking University.
 
 You can find my CV here: [Tiancheng Yu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
@@ -93,10 +93,12 @@ Octo-finalist (First Team) and Round of Sixteen (Second Team), 2022.<br>.<br>
  **•** Peking University Hundred-Kilometer Relay Race Competition<br>
 Team 7th Place (2021), Team 4th Place (2022), Team 10th Place (2023).
 
- **•** Logo Design Contest<br>
-Peking University Physics 110th Anniversary Logo Design Contest, Ranked Second in Votes.<br>
-Selected Peking University Physics Department's 2021 Logo Design Contest.<br>
-Selected for Mellower Coffee 10th Anniversary Logo Design Contest.
+ **•** Logo Design<br>
+Physics at Peking University 110th Anniversary Logo.<br>
+Peking University, School of Physics 2021 Yard Shirt Logo.<br>
+National College Student Physics Experiment Competition (Innovation Group) Group Logo.<br>
+Peking University Mellower Coffee 10th Anniversary Logo Design.
+<img src="../images/logo.png" alt="logo">
 
 
 
