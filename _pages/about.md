@@ -97,7 +97,7 @@ Team 7th Place (2021), Team 4th Place (2022), Team 10th Place (2023).
 Physics at Peking University 110th Anniversary Logo.<br>
 Peking University, School of Physics 2021 Yard Shirt Logo.<br>
 National College Student Physics Experiment Competition (Innovation Group) Group Logo.<br>
-Peking University Mellower Coffee 10th Anniversary Logo Design.
+Peking University Mellower Coffee 10th Anniversary Logo.
 <img src="../images/logo.png" alt="logo">
 
 
