@@ -21,7 +21,7 @@ Peking University Youth Astronomy Association Meteor Shower Observation Event <s
 Peking University Youth Astronomy Association Jupiter, Mars, and Uranus Observation Event <span style="float: right;">Sept 2021</span><br>
 Peking University Book Relay Event <span style="float: right;">Sept 2020 & Sept 2021 & Sept 2022</span>
 
- **• Billiards Team Member**
+ **• Billiards Team Member**<br>
 Peking University School of Physics Billiards Team, <i>Oct 2020 - April 2023</i>.<br>
 PKU Cup Billiards Championship：<br>
 Octo-finalist (First Team) and Round of Sixteen (Second Team), <i>2022</i>.<br>
@@ -29,25 +29,25 @@ Champion (First Team) and Round of Sixteen (Second Team), <i>2021</i>.<br>
  **• Publicity Department Officer**, Peking University Billiards Association, <i>Sept 2021 - March 2022</i>.
  <img src="../images/billiards.jpg" alt="billiards">
 
- **• Sports**
+ **• Sports**<br>
  **•** Peking University Hundred-Kilometer Relay Race Competition<br>
 Team 9th Place (<i>2023</i>), Team 4th Place (<i>2022</i>), Team 7th Place (<i>2021</i>).<br>
  **•** Peking University May Fourth Youth Long-distance Race, <i>2021</i>.<br>
  **•** Peking University Freshman Cup 3V3 Basketball Tournament, <i>2020</i>.
 
- **• Culture and Art**
+ **• Culture and Art**<br>
  **•** Outstanding Participant in <i>2021</i> USTC Excellent College Student Summer Camp Physics Program.<br>
  **•** China Nuclear Power Engineering Corporation 404 Practical Activity, Outstanding Achievement Award in <i>2021</i> Practice Activities by Peking University, School of Physics.<br>
  **•** 2020-2021 Peking University Advanced Class, Outstanding Youth League Branch.<br>
  **•** Safe and Civilized Dormitories (<i>2020</i>, <i>2021</i>, <i>2023</i>).<br>
  **•** Peking University 12.9 Choral Event, <i>2020</i>.
  
- **• Logo Design<br>**
+ **• Logo Design**<br>
 Physics at Peking University 110th Anniversary Logo.<br>
 Peking University, School of Physics <i>2021</i> Shirt Logo.<br>
 National College Student Physics Experiment Competition (Innovation Group) Group Logo.<br>
 Peking University Mellower Coffee 10th Anniversary Logo.
 <img src="../images/logo.png" alt="logo">
 
- **• Sketches<br>**
+ **• Sketches**<br>
  <img src="../images/jojo.png" alt="jojo">
