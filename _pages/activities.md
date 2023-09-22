@@ -31,7 +31,7 @@ Champion (First Team) and Round of Sixteen (Second Team), <i>2021</i>.<br>
  **• Sports**<br>
  **•** Peking University Hundred-Kilometer Relay Race Competition<br>
 Team 9th Place (<i>2023</i>), Team 4th Place (<i>2022</i>), Team 7th Place (<i>2021</i>).<br>
- **•** PKUPOA 4th City Orienteering Event, <i>2021</i>.<br>
+ **•** PKUPOA 3rd City Orienteering Event, <i>2021</i>.<br>
  **•** Peking University May Fourth Youth Long-distance Race, <i>2021</i>.<br>
  **•** Peking University Freshman Cup 3V3 Basketball Tournament, <i>2020</i>.
 
