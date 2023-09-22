@@ -1,0 +1,34 @@
+---
+layout: archive
+title: "Cities Explored"
+permalink: /cities/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
+**China**<br>
+Beijing, Shanghai, Tianjin, Hongkong<br>
+Xinjiang (Urumqi, Karamay, Turpan, Hami City, Ili, Aksu, Kashgar, Hotan, Altay)<br>
+Zhejiang (Hangzhou, Ningbo, Jiaxing, Huzhou, Shaoxing, Zhoushan)<br>
+Sichuan (Chengdu, Leshan, Deyang, Mianyang, Aba)<br>
+Shaanxi (Xi'an, Xianyang, Shangluo, Weinan)<br>
+Guangdong (Guangzhou, Shenzhen, Dongguan)<br>
+Hunan (Changsha, Xiangtan, Yueyang)<br>
+Henan (Zhengzhou, Kaifeng, Luoyang)<br>
+Shandong (Jinan, Qingdao)<br>
+Anhui (Hefei, Huangshan)<br>
+Fujian (Xiamen, Putian)<br>
+Hainan (Sanya)<br>
+Hubei (Wuhan)<br>
+
+**America**<br>
+MA (Boston)
+
+**South Korea**<br>
+Seoul, Busan, Incheon
+
+**Qatar**<br>
+Doha
