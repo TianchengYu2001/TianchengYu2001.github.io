@@ -14,8 +14,8 @@ Beijing, Shanghai, Tianjin, Hongkong<br>
 Xinjiang (Urumqi, Karamay, Turpan, Hami City, Ili, Aksu, Kashgar, Hotan, Altay)<br>
 Zhejiang (Hangzhou, Ningbo, Jiaxing, Huzhou, Shaoxing, Zhoushan)<br>
 Sichuan (Chengdu, Leshan, Deyang, Mianyang, Aba)<br>
-Shaanxi (Xi'an, Xianyang, Shangluo, Weinan)<br>
 Guangdong (Guangzhou, Shenzhen, Dongguan)<br>
+Shaanxi (Xi'an, Xianyang, Shangluo, Weinan)<br>
 Hunan (Changsha, Xiangtan, Yueyang)<br>
 Henan (Zhengzhou, Kaifeng, Luoyang)<br>
 Shandong (Jinan, Qingdao)<br>
