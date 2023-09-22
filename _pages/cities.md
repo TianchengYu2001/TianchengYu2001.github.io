@@ -12,7 +12,7 @@ redirect_from:
 **China**<br>
 Beijing, Shanghai, Tianjin, Hongkong<br>
 Xinjiang (Urumqi, Karamay, Turpan, Hami City, Ili, Aksu, Kashgar, Hotan, Altay)<br>
-Zhejiang (Hangzhou, Ningbo, Jiaxing, Huzhou, Shaoxing, Zhoushan)<br>
+Zhejiang (Hangzhou, Ningbo, Jiaxing, Huzhou, Shaoxing, Taizhou, Zhoushan)<br>
 Sichuan (Chengdu, Leshan, Deyang, Mianyang, Aba)<br>
 Guangdong (Guangzhou, Shenzhen, Dongguan)<br>
 Shaanxi (Xi'an, Xianyang, Shangluo, Weinan)<br>
