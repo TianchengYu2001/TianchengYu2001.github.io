@@ -24,7 +24,7 @@ Fujian (Xiamen, Putian)<br>
 Hainan (Sanya)<br>
 Hubei (Wuhan)<br>
 
-**America**<br>
+**USA**<br>
 MA (Boston)
 
 **South Korea**<br>
