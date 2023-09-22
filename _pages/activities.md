@@ -15,7 +15,6 @@ Peking University Music Conservatory 100th Anniversary Concert <span style="floa
 <i>Three Bodies</i> Creative Team's Visit to Peking University <span style="float: right;">March 2023</span><br>
 Peking University Winter Break Returning to Hometown Promotion <span style="float: right;">Jan 2023</span><br>
 Zhejiang Provincial Division of the Peking University Admissions Office <span style="float: right;">June 2022</span><br>
-PKUPOA 4th City Orienteering Event <span style="float: right;">May 2022</span><br>
 Peking University Winter Sports Meeting Opening Ceremony <span style="float: right;">Jan 2022</span><br>
 Peking University Youth Astronomy Association Meteor Shower Observation Event <span style="float: right;">Dec 2021</span><br>
 Peking University Youth Astronomy Association Jupiter, Mars, and Uranus Observation Event <span style="float: right;">Sept 2021</span><br>
@@ -32,6 +31,7 @@ Champion (First Team) and Round of Sixteen (Second Team), <i>2021</i>.<br>
  **• Sports**<br>
  **•** Peking University Hundred-Kilometer Relay Race Competition<br>
 Team 9th Place (<i>2023</i>), Team 4th Place (<i>2022</i>), Team 7th Place (<i>2021</i>).<br>
+ **•** PKUPOA 4th City Orienteering Event, <i>2021</i>.<br>
  **•** Peking University May Fourth Youth Long-distance Race, <i>2021</i>.<br>
  **•** Peking University Freshman Cup 3V3 Basketball Tournament, <i>2020</i>.
 
