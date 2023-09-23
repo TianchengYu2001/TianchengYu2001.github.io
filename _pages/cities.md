@@ -25,7 +25,7 @@ Hainan (Sanya)<br>
 Hubei (Wuhan)<br>
 
 **USA**<br>
-MA (Boston)
+MA (Boston, Cambridge, Burlington, Lexington)
 
 **South Korea**<br>
 Seoul, Busan, Incheon
