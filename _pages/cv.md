@@ -69,7 +69,7 @@ Talks at Seminars
 
 <span style="text-decoration: underline;">Tiancheng Yu</span>, Siyuan Zhang, <i>Principles and applications of quantum chaos</i>, **Quantum Seminar, Peking University**, <i>Dec 2022</i>.
 
-<span style="text-decoration: underline;">Tiancheng Yu</span>, Peizhao Li, Ou Zhe, <i>Quantitative Study of Parametric Resonance and the Kapitza Pendulum</i>, **Innovative Physics Experiments, Peking University**, <i>Nov 2022</i>.
+<span style="text-decoration: underline;">Tiancheng Yu</span>, Peizhao Li, Ou Zhe, <i>Quantitative Study of Parametric Resonance and the Kapitza Pendulum</i>, **Chinese Undergraduate Physics Experiment Competition, Peking University**, <i>Nov 2022</i>.
 
 <span style="text-decoration: underline;">Tiancheng Yu</span>, <i>Reaction diffusion equation, Turing patterns, and dissipative systems</i>, **Equilibrium Statistical Physics Seminar, Peking University**, <i>Nov 2022</i>.
 
