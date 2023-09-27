@@ -20,7 +20,7 @@ You can find my CV here: [Tiancheng Yu's Curriculum Vitae](../assets/Curriculum_
 Preprints
 ======
 
-Atomic-Scale Tracking Phase Transition Dynamics of Berezinskii-Kosterlitz-Thouless Polar Vortex-Antivortex
+Atomic-Scale Tracking Phase Transition Dynamics of BKT Polar Vortex-Antivortex
 -----
 <img src="../images/fig1.png" alt="Figure 1">
 
