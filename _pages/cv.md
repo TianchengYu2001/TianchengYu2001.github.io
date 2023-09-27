@@ -17,27 +17,27 @@ Work experience
 ======
 * 2022 – 2023: Research Assistant
   * Peking University
-  * Duties included: Experiments of Faraday Patterns.
-  * Supervisor: Associate Professor Luqun Zhou
+  * Research focused on: Experiments of Faraday patterns in different liquids.
+  * Supervisor: Associate Prof. Luqun Zhou
 
 * 2022 – 2023: Research Assistant
   * Peking University
-  * Duties included: Superlattice, bicrystal, SPhP.
-  * Supervisor: Professor Peng Gao
+  * Research focused on: Vortex-antivortex in STO/PTO superlattice, specific SPhP corner mode, STEM.
+  * Supervisor: Prof. Peng Gao
 
-* 2023: Online Research Assistant
+* 2023: Research Assistant(Online)
   * Rice University
-  * Duties included: Processing 4D-STEM data.
-  * Supervisor: AP Yimo Han
+  * Research focused on: Using EWPC and clustering to process 4D-STEM data.
+  * Supervisor: Assistant Prof. Yimo Han
 
 * 2023 - 2024: Research Assistant
   * Harvard University
-  * Duties included: Li Batteries.
-  * Supervisor: Associate Professor Xin Li
+  * Research focused on: Li/Na solid-state battery(SSB), alloy anode.
+  * Supervisor: Associate Prof. Xin Li
 
 Honors and Awards
 ======
- **•** ? Scholarship
+ **•** Lingjun Leadership Scholarship
 <span style="float: right;">Sept 2023</span>
 
  **•** Peking University “Merit Student” Award
@@ -45,6 +45,9 @@ Honors and Awards
 
  **•** Peking University Challenge Cup Excellence Award
 <span style="float: right;">June 2023</span>
+
+ **•** China Undergraduate Physics Experiment Competition(CUPEC) Innovation Award
+<span style="float: right;">Dec 2022</span>
 
  **•** School of Physics Weiming Scholarship
 <span style="float: right;">June 2022 & Sept 2023</span>
