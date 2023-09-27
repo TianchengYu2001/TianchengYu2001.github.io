@@ -38,7 +38,7 @@ Team 9th Place (2023), Team 4th Place (2022), Team 7th Place (2021).<br>
  **•** Peking University May Fourth Youth Long-distance Race, <i>2021</i>.<br>
  **•** Peking University Freshman Cup 3V3 Basketball Tournament, <i>2020</i>.
 
- **• Non-Academic Awards**<br>
+ **• Non-Academic**<br>
  **•** Outstanding Participant in 2021 USTC Excellent College Student Summer Camp Physics Program.<br>
  **•** China Nuclear Power Engineering Corporation 404 Practical Activity, Outstanding Achievement Award in 2021 Practice Activities by Peking University, School of Physics.<br>
  **•** 2020-2021 Peking University Advanced Class, Model Class, Outstanding Youth League Branch.<br>
