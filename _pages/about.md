@@ -8,14 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Tiancheng Yu (俞天成, pronounced as Tea-en-chung Yoo), a fourth year undergraduate student from [School of Physics](https://phy.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes structure and physical properties of new energy materials and 4D-STEM.
+Hi! I am Tiancheng Yu (俞天成, pronounced as Tea-en-chung Yoo), a fourth year undergraduate student from [School of Physics](https://phy.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes electrode materials and 4D-STEM.
 
-I am very fortunate to be advised by [Prof. Xin Li](https://scholar.harvard.edu/lixin) from [School of Engineering and Applied Science(SEAS)](https://seas.harvard.edu/), Harvard University. 
+I am very fortunate to currently serve as a visiting scholar in the research group led by [Prof. Xin Li](https://scholar.harvard.edu/lixin) at [School of Engineering and Applied Science(SEAS)](https://seas.harvard.edu/), Harvard University. 
 I was advised by [Prof. PengGao](https://scholar.google.com/citations?hl=en&user=JQLol_0AAAAJ) from [International Center for Quantum Materials(ICQM)](http://icqm.pku.edu.cn/gyzx/gyzx_gyzx/index.htm), Peking University.
 
-You can find my CV here: [Tiancheng Yu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-
-[Email](mailto:2000011321@stu.pku.edu.cn) / [Github](https://github.com/TianchengYu2001)
+[Email](mailto:tianchengyu@fas.harvard.edu) / [Github](https://github.com/TianchengYu2001)
 
 Preprints
 ======
