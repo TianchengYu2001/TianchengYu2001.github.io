@@ -44,7 +44,7 @@ Peizhao Li<sup>=</sup>, <span style="text-decoration: underline;">Tiancheng Yu<s
 
 Honors and Awards
 ======
- **•** Lingjun Leadership Scholarship
+ **•** Lingjun Advanced Scholarship
 <span style="float: right;">Sept 2023</span>
 
  **•** Peking University “Merit Student” Award
