@@ -37,7 +37,7 @@ Work experience
 
 Honors and Awards
 ======
- **•** Lingjun Leadership Scholarship
+ **•** Lingjun Advanced Scholarship
 <span style="float: right;">Sept 2023</span>
 
  **•** Peking University “Merit Student” Award
