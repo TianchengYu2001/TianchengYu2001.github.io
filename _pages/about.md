@@ -50,7 +50,7 @@ Honors and Awards
 ======
 
  **•** Outstanding Individual Performance Evaluation
-<span style="float: right;">Sept 2023</span>
+<span style="float: right;">Oct 2023</span>
 
  **•** Lingjun Advanced Scholarship
 <span style="float: right;">Sept 2023</span>
