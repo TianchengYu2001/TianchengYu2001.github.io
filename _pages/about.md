@@ -22,7 +22,7 @@ Preprints
 
 Advancing Nanobeam 4D-STEM Through Manifold Learning in Cepstrum Space
 -----
-<img src="../images/cepstrum.png" alt="Figure 0">
+<img src="../images/cepstrum.png" alt="Figure 0" style="width: 50%;">
 
 Chuqiao Shi<sup>=</sup>, <span style="text-decoration: underline;">Tiancheng Yu<sup>=</sup></span>, Aaron Bayles, Zhihua Cheng, Matthew R. Jones, Naomi Halas, Yimo Han&#42;,
 <i>Advancing Nanobeam 4D-STEM Through Manifold Learning in Cepstrum Space</i>.
