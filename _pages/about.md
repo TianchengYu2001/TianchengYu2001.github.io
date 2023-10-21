@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Tiancheng Yu (俞天成, pronounced as Tea-en-chung Yoo), a fourth year undergraduate student from [School of Physics](https://phy.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes electrode materials and 4D-STEM.
+Hi! I am Tiancheng Yu (俞天成, pronounced as Tea-en-chung Yoo). I am an undergraduate student majoring in [Physics](https://phy.pku.edu.cn/) at [Peking University](https://www.pku.edu.cn/). 
+During my undergraduate, I am grateful to be advised by [Prof. Peng Gao](https://scholar.google.com/citations?hl=en&user=JQLol_0AAAAJ) at [International Center for Quantum Materials(ICQM)](http://icqm.pku.edu.cn/gyzx/gyzx_gyzx/index.htm), Peking University. Currently I am also a visiting research student at [School of Engineering and Applied Science(SEAS)](https://seas.harvard.edu/), Harvard University, supervised by [Prof. Xin Li](https://scholar.harvard.edu/lixin).
 
-I am very fortunate to currently serve as a visiting scholar in the research group led by [Prof. Xin Li](https://scholar.harvard.edu/lixin) at [School of Engineering and Applied Science(SEAS)](https://seas.harvard.edu/), Harvard University. 
-I was advised by [Prof. PengGao](https://scholar.google.com/citations?hl=en&user=JQLol_0AAAAJ) from [International Center for Quantum Materials(ICQM)](http://icqm.pku.edu.cn/gyzx/gyzx_gyzx/index.htm), Peking University.
+My research interest includes electrode materials, grain boundaries in 2D materials and 4D-STEM.
 
 [Email](mailto:tianchengyu@fas.harvard.edu) / [Github](https://github.com/TianchengYu2001)
+
 
 Preprints
 ======
@@ -21,9 +22,10 @@ Preprints
 Advancing Nanobeam 4D-STEM Through Manifold Learning in Cepstrum Space
 -----
 <img src="../images/cepstrum.png" alt="Figure 0">
-Chuqiao Shi<sup>=</sup>, <span style="text-decoration: underline;">Tiancheng Yu<sup>=</sup></span>, Aaron Bayles, Zhihua Cheng, Matthew R. Jones, Naomi Halas, Yimo Han&#42;,
-<i>Advancing Nanobeam 4D-STEM Through Manifold Learning in Cepstrum Space</i>
 
+Chuqiao Shi<sup>=</sup>, <span style="text-decoration: underline;">Tiancheng Yu<sup>=</sup></span>, Aaron Bayles, Zhihua Cheng, Matthew R. Jones, Naomi Halas, Yimo Han&#42;,
+<i>Advancing Nanobeam 4D-STEM Through Manifold Learning in Cepstrum Space</i>.
+[weblink]()
 
 Atomic-Scale Tracking Phase Transition Dynamics of BKT Polar Vortex-Antivortex
 -----
@@ -42,8 +44,13 @@ Peizhao Li<sup>=</sup>, <span style="text-decoration: underline;">Tiancheng Yu<s
 **arXiv** 2305.06690 (2023). 
 [weblink](https://www.researchgate.net/publication/373411670_Experiments_on_Phase_Transition_of_Faraday_Waves_with_Xantham_Gum_Solutions)
 
+
 Honors and Awards
 ======
+
+ **•** Outstanding Individual Performance Evaluation
+<span style="float: right;">Sept 2023</span>
+
  **•** Lingjun Advanced Scholarship
 <span style="float: right;">Sept 2023</span>
 
@@ -65,8 +72,14 @@ Honors and Awards
  **•** School of Physics Shen Keqi Scholarship
 <span style="float: right;">Sept 2021</span>
 
- **•** Silver Medal in the 36th China Physics Olympics final
+ **•** Zhu Kezhen Gold Award
+<span style="float: right;">Sept 2020</span>
+
+ **•** Silver Medal in 36th Chinese Physics Olympics Final
 <span style="float: right;">Hangzhou, China, Nov 2019</span>
+
+ **•** First Prize in 36th Chinese Physics Olympics in Provinces
+<span style="float: right;">Hangzhou, China, Sept 2019</span>
 
 
 
