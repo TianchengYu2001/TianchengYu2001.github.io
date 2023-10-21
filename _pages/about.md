@@ -53,7 +53,7 @@ Ruixue Zhu<sup>=</sup>, Sizheng Zheng<sup>=</sup>, Xiaomei Li<sup>=</sup>, Tao W
 </style>
 
 <div>
-    <img src="../images/fig1.png" alt="Figure 1" style="width: 50%;">
+    <img id="topology-image" src="../images/fig1.png" alt="Figure 1" style="width: 50%;">
     <p>
         Particle-like topologies, like vortex-antivortex (V-AV) pairs, are prominent in condensed matter research. However, detailed phase transition dynamics, including self-annihilation and motion, are often unexplored due to experimental limitations. Using polar V-AV pairs, we tracked their atomic-level transitions through advanced microscopy and simulations. We observed polarization suppression and V-AV annihilation near interfaces with increasing temperature. These findings enhance our understanding of topological phases and transitions, offering potential in electronic devices.
     </p>
@@ -73,7 +73,7 @@ Peizhao Li<sup>=</sup>, <span style="text-decoration: underline;">Tiancheng Yu<s
 </style>
 
 <div>
-    <img src="../images/fig2.png" alt="Figure 2" style="width: 50%;">
+    <img id="faraday-image" src="../images/fig2.png" alt="Figure 2" style="width: 50%;">
     <p>
         Through experiments and neural network analysis, we explore Faraday waves in Xantham Gum Solutions (shear-thinning non-Newtonian fluid) and compare them with Newtonian fluids. We identify abrupt transitions in spatiotemporal order: onset and instability. These transitions follow power-law relationships based on driving amplitudes and frequencies. We demonstrate that the different power-law exponents during onset stem from surface tension and viscosity contributions in the surface wave dispersion relation. Additionally, we propose a theoretical model merging Navier–Stokes equations with soliton theory to explain distinct power-law exponents for instability in both Newtonian fluids and Xantham Gum Solutions.
     </p>
