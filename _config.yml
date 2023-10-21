@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Tiancheng Yu"
   avatar           : "HARVARD.png"
-  bio              : "Undergraduate student working on electrode materials and 4D-STEM."
+  bio              : "Undergraduate student working on electrode materials, grain boundaries in 2D materials and 4D-STEM."
   location         : "Boston, MA"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
-  email            :  "2000011321@stu.pku.edu.cn"
+  email            :  "tianchengyu@fas.harvard.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
