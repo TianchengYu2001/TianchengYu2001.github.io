@@ -33,7 +33,7 @@ Chuqiao Shi<sup>=</sup>, <span style="text-decoration: underline;">Tiancheng Yu<
 </style>
 
 <div>
-    <img id="cepstrum-image" src="../images/cepstrum.png" alt="Figure 0" style="width: 50%;">
+    <img id="cepstrum-image" src="../images/cepstrum.png" alt="cepstrum" style="width: 50%;">
     <p>
         Nanobeam 4D-STEM, a potent tool for nanomaterial crystal structure analysis, faces challenges in processing large, unlabeled datasets due to noise interference. This study introduces a novel approach utilizing cepstrum transformation and manifold learning to extract vital lattice features such as strain, orientation, and domain structures. This method significantly enhances machine learning accuracy, validated across various materials like 2D ferroelectric materials and nanoparticles. The findings ensure efficient nanostructure characterization in 4D-STEM workflows.
     </p>
@@ -45,7 +45,7 @@ Atomic-Scale Tracking Phase Transition Dynamics of BKT Polar Vortex-Antivortex
 Ruixue Zhu<sup>=</sup>, Sizheng Zheng<sup>=</sup>, Xiaomei Li<sup>=</sup>, Tao Wang<sup>=</sup>, Congbing Tan&#42;, <span style="text-decoration: underline;">Tiancheng Yu</span>, Zhetong Liu, Xinqiang Wang, Jiangyu Li&#42;, Jie Wang&#42;, Peng Gao&#42;, **arXiv** 2308.07583 (2023). [weblink](https://arxiv.org/abs/2308.07583)
 
 <style>
-    #cepstrum-image {
+    #topology-image {
         shape-outside: rectangle(0, 0, 50%, 100%);
         float: left;
         margin: 0 0 0 0; /* 外边距 */
@@ -53,7 +53,7 @@ Ruixue Zhu<sup>=</sup>, Sizheng Zheng<sup>=</sup>, Xiaomei Li<sup>=</sup>, Tao W
 </style>
 
 <div>
-    <img id="topology-image" src="../images/fig1.png" alt="Figure 1" style="width: 50%;">
+    <img id="topology-image" src="../images/fig1.png" alt="topology" style="width: 50%;">
     <p>
         Particle-like topologies, like vortex-antivortex (V-AV) pairs, are prominent in condensed matter research. However, detailed phase transition dynamics, including self-annihilation and motion, are often unexplored due to experimental limitations. Using polar V-AV pairs, we tracked their atomic-level transitions through advanced microscopy and simulations. We observed polarization suppression and V-AV annihilation near interfaces with increasing temperature. These findings enhance our understanding of topological phases and transitions, offering potential in electronic devices.
     </p>
@@ -65,7 +65,7 @@ Experiments on Phase Transition of Faraday Waves with Xantham Gum Solutions
 Peizhao Li<sup>=</sup>, <span style="text-decoration: underline;">Tiancheng Yu<sup>=</sup></span>, Xuechang Tu, Han Yan, Wei Wang, Luqun Zhou&#42;, **arXiv** 2305.06690 (2023). [weblink](https://www.researchgate.net/publication/373411670_Experiments_on_Phase_Transition_of_Faraday_Waves_with_Xantham_Gum_Solutions)
 
 <style>
-    #cepstrum-image {
+    #faraday-image {
         shape-outside: rectangle(0, 0, 50%, 100%);
         float: left;
         margin: 0 0 0 0; /* 外边距 */
@@ -73,7 +73,7 @@ Peizhao Li<sup>=</sup>, <span style="text-decoration: underline;">Tiancheng Yu<s
 </style>
 
 <div>
-    <img id="faraday-image" src="../images/fig2.png" alt="Figure 2" style="width: 50%;">
+    <img id="faraday-image" src="../images/fig2.png" alt="faraday" style="width: 50%;">
     <p>
         Through experiments and neural network analysis, we explore Faraday waves in Xantham Gum Solutions (shear-thinning non-Newtonian fluid) and compare them with Newtonian fluids. We identify abrupt transitions in spatiotemporal order: onset and instability. These transitions follow power-law relationships based on driving amplitudes and frequencies. We demonstrate that the different power-law exponents during onset stem from surface tension and viscosity contributions in the surface wave dispersion relation. Additionally, we propose a theoretical model merging Navier–Stokes equations with soliton theory to explain distinct power-law exponents for instability in both Newtonian fluids and Xantham Gum Solutions.
     </p>
