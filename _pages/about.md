@@ -24,14 +24,21 @@ Advancing Nanobeam 4D-STEM Through Manifold Learning in Cepstrum Space
 -----
 Chuqiao Shi<sup>=</sup>, <span style="text-decoration: underline;">Tiancheng Yu<sup>=</sup></span>, Aaron Bayles, Zhihua Cheng, Matthew R. Jones, Naomi Halas, Yimo Han&#42;. [weblink]()
 
-<div style="width: 50%; float: left;">
-    <img src="../images/cepstrum.png" alt="Figure 0" style="width: 100%;">
-</div>
-<div style="width: 50%; float: left;">
+<style>
+    #cepstrum-image {
+        shape-outside: rectangle(0, 0, 50%, 100%);
+        float: left;
+        margin: 0 20px 20px 0; /* 可以根据需要调整外边距 */
+    }
+</style>
+
+<div>
+    <img id="cepstrum-image" src="../images/cepstrum.png" alt="Figure 0">
     <p>
         Nanobeam 4D-STEM is a powerful tool for studying nanomaterial crystal structures. Unsupervised machine learning is used to analyze large, unlabeled 4D-STEM datasets by finding patterns in diffractions. However, noise from unrelated features like lattice mistilt and dynamic scattering can disrupt machine learning models. This paper explores a new method using cepstrum transformation and manifold learning to extract meaningful lattice features like strain, orientation, and domain structures. This enhances machine learning accuracy. Our techniques are validated using diverse materials, including 2D ferroelectric materials and nanoparticles. These methods promise efficient characterization of nanostructures in 4D-STEM workflows.
     </p>
 </div>
+
 
 
 Atomic-Scale Tracking Phase Transition Dynamics of BKT Polar Vortex-Antivortex
