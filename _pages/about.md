@@ -33,7 +33,7 @@ Chuqiao Shi<sup>=</sup>, <span style="text-decoration: underline;">Tiancheng Yu<
 </style>
 
 <div>
-    <img id="cepstrum-image" src="../images/cepstrum.png" alt="Figure 0">
+    <img id="cepstrum-image" src="../images/cepstrum.png" alt="Figure 0" style="width: 50%;">
     <p>
         Nanobeam 4D-STEM is a powerful tool for studying nanomaterial crystal structures. Unsupervised machine learning is used to analyze large, unlabeled 4D-STEM datasets by finding patterns in diffractions. However, noise from unrelated features like lattice mistilt and dynamic scattering can disrupt machine learning models. This paper explores a new method using cepstrum transformation and manifold learning to extract meaningful lattice features like strain, orientation, and domain structures. This enhances machine learning accuracy. Our techniques are validated using diverse materials, including 2D ferroelectric materials and nanoparticles. These methods promise efficient characterization of nanostructures in 4D-STEM workflows.
     </p>
