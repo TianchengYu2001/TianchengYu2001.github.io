@@ -23,12 +23,14 @@ Preprints
 Advancing Nanobeam 4D-STEM Through Manifold Learning in Cepstrum Space
 -----
 Chuqiao Shi<sup>=</sup>, <span style="text-decoration: underline;">Tiancheng Yu<sup>=</sup></span>, Aaron Bayles, Zhihua Cheng, Matthew R. Jones, Naomi Halas, Yimo Han&#42;. [weblink]()
+
 <img src="../images/cepstrum.png" alt="Figure 0" style="width: 50%;">Nanobeam Four-Dimensional Scanning Transmission Electron Microscopy (4D-STEM) has emerged as a powerful tool for characterizing the crystal structure of a diverse range of nanomaterials. Facing the large and unlabeled 4D-STEM datasets, unsupervised machine learning has been employed to uncover hidden patterns based on the similarities between diffractions.  However, the diffraction intensity variances caused by unrelated features including the lattice mistilt and dynamic scattering effects can dominate the similarity and hinder the performance of machine learning models. In this paper, we investigated a new pre-transformation strategy for 4D datasets  by combining  the cepstrum transformation and manifold learning to extract relevant lattice features with physical meanings such as strain profile, lattice orientation and domain structures, thereby enhancing unsupervised machine learning performance. The effectiveness of our methods is rigorously validated using both simulated and experimental datasets encompassing various materials, including 2D ferroelectric materials and nanoparticles. These data transformation techniques hold significant promise as integral components of automated 4D-STEM processing workflows, facilitating efficient and precise characterization of nanostructured materials.
 
 
 Atomic-Scale Tracking Phase Transition Dynamics of BKT Polar Vortex-Antivortex
 -----
 Ruixue Zhu<sup>=</sup>, Sizheng Zheng<sup>=</sup>, Xiaomei Li<sup>=</sup>, Tao Wang<sup>=</sup>, Congbing Tan&#42;, <span style="text-decoration: underline;">Tiancheng Yu</span>, Zhetong Liu, Xinqiang Wang, Jiangyu Li&#42;, Jie Wang&#42;, Peng Gao&#42;, **arXiv** 2308.07583 (2023). [weblink](https://arxiv.org/abs/2308.07583)
+
 <img src="../images/fig1.png" alt="Figure 1" style="width: 50%;">
 
 
@@ -36,6 +38,7 @@ Ruixue Zhu<sup>=</sup>, Sizheng Zheng<sup>=</sup>, Xiaomei Li<sup>=</sup>, Tao W
 Experiments on Phase Transition of Faraday Waves with Xantham Gum Solutions
 -----
 Peizhao Li<sup>=</sup>, <span style="text-decoration: underline;">Tiancheng Yu<sup>=</sup></span>, Xuechang Tu, Han Yan, Wei Wang, Luqun Zhou&#42;, **arXiv** 2305.06690 (2023). [weblink](https://www.researchgate.net/publication/373411670_Experiments_on_Phase_Transition_of_Faraday_Waves_with_Xantham_Gum_Solutions)
+
 <img src="../images/fig2.png" alt="Figure 2" style="width: 50%;">
 
 
