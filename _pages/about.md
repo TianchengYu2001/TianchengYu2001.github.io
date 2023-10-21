@@ -28,7 +28,7 @@ Chuqiao Shi<sup>=</sup>, <span style="text-decoration: underline;">Tiancheng Yu<
     #cepstrum-image {
         shape-outside: rectangle(0, 0, 50%, 100%);
         float: left;
-        margin: 0 20px 20px 0; /* 可以根据需要调整外边距 */
+        margin: 0 0 0 0; /* 可以根据需要调整外边距 */
     }
 </style>
 
