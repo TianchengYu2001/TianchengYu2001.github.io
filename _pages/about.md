@@ -22,11 +22,9 @@ Preprints
 
 Advancing Nanobeam 4D-STEM Through Manifold Learning in Cepstrum Space
 -----
-<img src="../images/cepstrum.png" alt="Figure 0" style="width: 50%;">
+Chuqiao Shi<sup>=</sup>, <span style="text-decoration: underline;">Tiancheng Yu<sup>=</sup></span>, Aaron Bayles, Zhihua Cheng, Matthew R. Jones, Naomi Halas, Yimo Han&#42;,[weblink]()
+<img src="../images/cepstrum.png" alt="Figure 0" style="width: 50%;">Nanobeam Four-Dimensional Scanning Transmission Electron Microscopy (4D-STEM) has emerged as a powerful tool for characterizing the crystal structure of a diverse range of nanomaterials. Facing the large and unlabeled 4D-STEM datasets, unsupervised machine learning has been employed to uncover hidden patterns based on the similarities between diffractions.  However, the diffraction intensity variances caused by unrelated features including the lattice mistilt and dynamic scattering effects can dominate the similarity and hinder the performance of machine learning models. In this paper, we investigated a new pre-transformation strategy for 4D datasets  by combining  the cepstrum transformation and manifold learning to extract relevant lattice features with physical meanings such as strain profile, lattice orientation and domain structures, thereby enhancing unsupervised machine learning performance. The effectiveness of our methods is rigorously validated using both simulated and experimental datasets encompassing various materials, including 2D ferroelectric materials and nanoparticles. These data transformation techniques hold significant promise as integral components of automated 4D-STEM processing workflows, facilitating efficient and precise characterization of nanostructured materials.
 
-Chuqiao Shi<sup>=</sup>, <span style="text-decoration: underline;">Tiancheng Yu<sup>=</sup></span>, Aaron Bayles, Zhihua Cheng, Matthew R. Jones, Naomi Halas, Yimo Han&#42;,
-<i>Advancing Nanobeam 4D-STEM Through Manifold Learning in Cepstrum Space</i>.
-[weblink]()
 
 Atomic-Scale Tracking Phase Transition Dynamics of BKT Polar Vortex-Antivortex
 -----
