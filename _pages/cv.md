@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * B.S. in Physics, Peking University, 2024 (expected)
@@ -38,6 +39,10 @@ Research experience
 
 Honors and Awards
 ======
+
+ **•** Outstanding Individual Performance Evaluation
+<span style="float: right;">Oct 2023</span>
+
  **•** Lingjun Advanced Scholarship
 <span style="float: right;">Sept 2023</span>
 
@@ -59,12 +64,19 @@ Honors and Awards
  **•** School of Physics Shen Keqi Scholarship
 <span style="float: right;">Sept 2021</span>
 
- **•** Silver Medal in the 36th China Physics Olympics final
+ **•** Zhu Kezhen Gold Award
+<span style="float: right;">Sept 2020</span>
+
+ **•** Silver Medal in 36th Chinese Physics Olympics Final
 <span style="float: right;">Hangzhou, China, Nov 2019</span>
+
+ **•** First Prize in 36th Chinese Physics Olympics in Provinces
+<span style="float: right;">Hangzhou, China, Sept 2019</span>
+
 
 Talks at Seminars
 ======
-<span style="text-decoration: underline;">Tiancheng Yu</span>, <i>Atomic-scale tracking phase transition dynamics of BKT polar vortex-antivortex</i>, **Undergraduate Research Midterm Presentation, Peking University**, <i>March 2023</i>.
+<span style="text-decoration: underline;">Tiancheng Yu</span>, <i>Atomic-scale tracking phase transition dynamics of BKT polar vortex-antivortex</i>, **Undergraduate Research Presentation, Peking University**, <i>March 2023</i>.
 
 <span style="text-decoration: underline;">Tiancheng Yu</span>, <i>Principles and applications of surface plasmon polariton(SPP) optics</i>, **Optical Seminar, Peking University**, <i>March 2023</i>.
 
