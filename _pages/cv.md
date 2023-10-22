@@ -13,27 +13,28 @@ Education
 ======
 * B.S. in Physics, Peking University, 2024 (expected)
 
-Work experience
+Research experience
 ======
-* 2022.5 – 2023.4: Research Assistant
-  * Peking University
-  * Research focused on: Experiments of Faraday patterns in different liquids.
-  * Supervisor: Associate Prof. Luqun Zhou
+* 2023.9 - 2024.2(expected)
+  * Harvard University
+  * Research focused on: Li/Na solid-state battery(SSB), alloy anode.
+  * Supervisor: Associate Prof. Xin Li
 
-* 2022.8 – 2023.5: Research Assistant
-  * Peking University
-  * Research focused on: Vortex-antivortex in STO/PTO superlattice, Using EELS to study specific SPhP modes, 4D-STEM.
-  * Supervisor: Prof. Peng Gao
-
-* 2023.6 - 2023.9: Research Assistant(Online)
+* 2023.6 - 2023.9(online)
   * Rice University
   * Research focused on: Using cepstrum transformation, manifold and clustering to process 4D-STEM data.
   * Supervisor: Assistant Prof. Yimo Han
 
-* 2023.9 - 2024.2(expected): Research Assistant
-  * Harvard University
-  * Research focused on: Li/Na solid-state battery(SSB), alloy anode.
-  * Supervisor: Associate Prof. Xin Li
+* 2022.8 – 2023.5
+  * Peking University
+  * Research focused on: Vortex-antivortex in STO/PTO superlattice, Using EELS to study specific SPhP modes, 4D-STEM.
+  * Supervisor: Prof. Peng Gao
+
+* 2022.5 – 2023.4
+  * Peking University
+  * Research focused on: Experiments of Faraday patterns in different liquids.
+  * Supervisor: Associate Prof. Luqun Zhou
+
 
 Honors and Awards
 ======
