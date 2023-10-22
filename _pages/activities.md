@@ -52,5 +52,5 @@ National College Student Physics Experiment Competition (Innovation Group) Group
 Peking University Mellower Coffee 10th Anniversary Logo.
 <img src="../images/logo.png" alt="logo">
 
-# **• Sketches**<br>
-# <img src="../images/jojo.png" alt="jojo">
+/* **• Sketches**<br> */
+/* <img src="../images/jojo.png" alt="jojo"> */
