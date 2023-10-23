@@ -12,5 +12,5 @@ main:
   - title: "Activities"
     url: /activities/
 
-  # - title: "Cities Explored"
-  #   url: /cities/
+  - title: "Cities Explored"
+    url: /cities/
