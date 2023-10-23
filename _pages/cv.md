@@ -23,17 +23,17 @@ Research experience
 
 * 2023.6 - 2023.9(online)
   * Rice University
-  * Research focused on: Using cepstrum transformation, manifold and clustering to process 4D-STEM data.
+  * Research focused on: using cepstrum transformation, manifold and clustering to process massive 4D-STEM data.
   * Supervisor: Assistant Prof. Yimo Han
 
 * 2022.8 – 2023.5
   * Peking University
-  * Research focused on: Vortex-antivortex in STO/PTO superlattice, Using EELS to study specific SPhP modes, 4D-STEM.
+  * Research focused on: vortex-antivortex in STO/PTO superlattice, using EELS to study specific SPhP modes, 4D-STEM.
   * Supervisor: Prof. Peng Gao
 
 * 2022.5 – 2023.4
   * Peking University
-  * Research focused on: Experiments of Faraday patterns in different liquids.
+  * Research focused on: experiments of Faraday patterns in different liquids.
   * Supervisor: Associate Prof. Luqun Zhou
 
 
