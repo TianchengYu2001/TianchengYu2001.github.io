@@ -119,21 +119,21 @@ Honors and Awards
 
 Selected courses
 ======
- **•** Physics
-Modern Physics **100**
-Theoretical Mechanics A **98**
-Solid State Physics A **95**
-Introduction of Nanophotonics and Plasmonics(for graduates) **98**
+ **•** Physics<br>
+Modern Physics **100**<br>
+Theoretical Mechanics A **98**<br>
+Solid State Physics A **95**<br>
+Introduction of Nanophotonics and Plasmonics(for graduates) **98**<br>
 
- **•** Coding
-Computational Physics A **99.5**
-Introduction to Computation **98**
-Rapid Prototyping in Innovations **98**
+ **•** Coding<br>
+Computational Physics A **99.5**<br>
+Introduction to Computation **98**<br>
+Rapid Prototyping in Innovations(for graduates) **98**<br>
 
- **•** Mathematics
-Linear Algebra A **96**
-Advanced Mathematics A **95**
+ **•** Mathematics<br>
+Linear Algebra A **96**<br>
+Advanced Mathematics A **95**<br>
 
- **•** Experiments
-Comprehensive Physics Lab **93**(top 10% in General Physics Lab 1 required for enrollment)
-Frontiers in Physics Experiment **90**(top 10% in Modern Physics Lab 1 required for enrollment)
+ **•** Experiments<br>
+Comprehensive Physics Lab **93**(top 10% in General Physics Lab 1 required for enrollment)<br>
+Frontiers in Physics Experiment **90**(top 10% in Modern Physics Lab 1 required for enrollment)<br>
