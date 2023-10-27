@@ -117,4 +117,23 @@ Honors and Awards
 <span style="float: right;">Hangzhou, China, Sept 2019</span>
 
 
+Selected courses
+======
+ **•** Physics
+Modern Physics **100**
+Theoretical Mechanics A **98**
+Solid State Physics A **95**
+Introduction of Nanophotonics and Plasmonics(for graduates) **98**
 
+ **•** Coding
+Computational Physics A **99.5**
+Introduction to Computation **98**
+Rapid Prototyping in Innovations **98**
+
+ **•** Mathematics
+Linear Algebra A **96**
+Advanced Mathematics A **95**
+
+ **•** Experiments
+Comprehensive Physics Lab **93**(top 10% in General Physics Lab 1 required for enrollment)
+Frontiers in Physics Experiment **90**(top 10% in Modern Physics Lab 1 required for enrollment)
