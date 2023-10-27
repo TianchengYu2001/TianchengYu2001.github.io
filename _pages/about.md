@@ -123,12 +123,12 @@ Selected courses
 Modern Physics **100**<br>
 Theoretical Mechanics A **98**<br>
 Solid State Physics A **95**<br>
-Introduction of Nanophotonics and Plasmonics (for graduates) **98**<br>
+Introduction of Nanophotonics and Plasmonics **98** (for graduates) <br>
 
  **• Coding**<br>
 Computational Physics A **99.5**<br>
 Introduction to Computation **98**<br>
-Rapid Prototyping in Innovations (for graduates) **98**<br>
+Rapid Prototyping in Innovations **98** (for graduates)<br>
 
  **• Mathematics**<br>
 Linear Algebra A **96**<br>
