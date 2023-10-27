@@ -137,3 +137,5 @@ Advanced Mathematics A **95**<br>
  **• Experiments**<br>
 Comprehensive Physics Lab **93** (top 10% in General Physics Lab 1 required for enrollment)<br>
 Frontiers in Physics Experiment **90** (top 10% in Modern Physics Lab 1 required for enrollment)<br>
+
+(According to the policy at my college, no more than 40% of the class can score above 85 in any course.)
