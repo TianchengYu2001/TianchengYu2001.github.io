@@ -16,12 +16,12 @@ Education
 
 Research experience
 ======
-* 2023.9 - 2024.2(expected)
+* 2023.9 - 2024.2 (expected)
   * Harvard University
   * Research focused on: Li/Na solid-state battery(SSB), alloy anode.
   * Supervisor: Associate Prof. Xin Li
 
-* 2023.6 - 2023.9(online)
+* 2023.6 - 2023.9 (online)
   * Rice University
   * Research focused on: using cepstrum transformation, manifold and clustering to process massive 4D-STEM data.
   * Supervisor: Assistant Prof. Yimo Han
