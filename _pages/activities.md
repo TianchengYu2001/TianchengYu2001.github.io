@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
  **• Volunteer Member**<br>
+Harvard Chinese Students and Scholars Association(HCSSA) Fall 5K Charity Run <span style="float: right;">Oct 2023</span><br>
 Peking University Alumni Salon with Microsoft Greater China CEO <span style="float: right;">June 2023</span><br>
 Peking University Music Conservatory 100th Anniversary Concert <span style="float: right;">May 2023</span><br>
 Mo Yan-Cao Wenxuan Literature Writing Lecture <span style="float: right;">May 2023</span><br>
