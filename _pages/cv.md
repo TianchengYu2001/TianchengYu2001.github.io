@@ -18,23 +18,27 @@ Research experience
 ======
 * 2023.9 - 2024.2 (expected)
   * Harvard University
-  * Research focused on: Li/Na solid-state battery(SSB), alloy anode.
   * Supervisor: Associate Prof. Xin Li
+  * Research focused on: Li/Na solid-state battery(SSB), alloy anode.
+  * Skills: metallurgy, electrochemistry, sintering techniques, XRD, SEM, EDS.
 
 * 2023.6 - 2023.9 (online)
   * Rice University
-  * Research focused on: using cepstrum transformation, manifold and clustering to process massive 4D-STEM data.
   * Supervisor: Assistant Prof. Yimo Han
+  * Research focused on: using cepstrum transformation, manifold and clustering to process massive 4D-STEM data.
+  * Skills: abTEM multi-slice simulation, HDBSCAN clustering, manifold, python coding, Jupyter notebook, Team Viewer.
 
 * 2022.8 – 2023.5
   * Peking University
-  * Research focused on: vortex-antivortex in STO/PTO superlattice, using EELS to study specific SPhP modes, 4D-STEM.
   * Supervisor: Prof. Peng Gao
+  * Research focused on: vortex-antivortex in STO/PTO superlattice, using EELS to study specific SPhP modes, 4D-STEM.
+  * Skills: HAADF-STEM, TEM, ABF, EDS, EELS, SPhPs, MATLAB coding, ion thinning, hand grinding and bonding.
 
 * 2022.5 – 2023.4
   * Peking University
-  * Research focused on: experiments of Faraday patterns in different liquids.
   * Supervisor: Associate Prof. Luqun Zhou
+  * Research focused on: experiments of Faraday patterns in different liquids.
+  * Skills: fluid nonlinear dynamics, model exciter experiments, MATLAB coding, neural network, Origin.
 
 
 Honors and Awards
