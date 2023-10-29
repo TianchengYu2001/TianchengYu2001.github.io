@@ -46,7 +46,7 @@ Ruixue Zhu<sup>=</sup>, Sizheng Zheng<sup>=</sup>, Xiaomei Li<sup>=</sup>, Tao W
 
 <style>
     #topology-image {
-        shape-outside: rectangle(0, 0, 50%, 100%);
+        shape-outside: rectangle(0, 0, 40%, 100%);
         float: left;
         margin: 0 0 0 0; /* 外边距 */
     }
@@ -66,7 +66,7 @@ Peizhao Li<sup>=</sup>, <span style="text-decoration: underline;">Tiancheng Yu<s
 
 <style>
     #faraday-image {
-        shape-outside: rectangle(0, 0, 50%, 100%);
+        shape-outside: rectangle(0, 0, 40%, 100%);
         float: left;
         margin: 0 0 0 0; /* 外边距 */
     }
