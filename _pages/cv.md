@@ -84,6 +84,8 @@ Talks at Seminars
 
 <span style="text-decoration: underline;">Tiancheng Yu</span>, <i>Principles and applications of surface plasmon polariton(SPP) optics</i>, **Optical Seminar, Peking University**, <i>March 2023</i>.
 
+<span style="text-decoration: underline;">Tiancheng Yu, Zhihang Li</span>, <i>Phase transitions in 2D q-state Potts model</i>, **Computaional Physics Seminar, Peking University**, <i>Dec 2022</i>.
+
 <span style="text-decoration: underline;">Tiancheng Yu</span>, Siyuan Zhang, <i>Principles and applications of quantum chaos</i>, **Quantum Seminar, Peking University**, <i>Dec 2022</i>.
 
 <span style="text-decoration: underline;">Tiancheng Yu</span>, Peizhao Li, Ou Zhe, <i>Quantitative Study of Parametric Resonance and the Kapitza Pendulum</i>, **Chinese Undergraduate Physics Experiment Competition, Peking University**, <i>Nov 2022</i>.
