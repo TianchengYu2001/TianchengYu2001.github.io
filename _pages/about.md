@@ -12,7 +12,7 @@ Hi! I am Tiancheng Yu (俞天成, pronounced as Tea-en-chung Yoo). I am an under
 
 During my undergraduate, I am grateful to be advised by [Prof. Peng Gao](https://scholar.google.com/citations?hl=en&user=JQLol_0AAAAJ) at [International Center for Quantum Materials(ICQM)](http://icqm.pku.edu.cn/gyzx/gyzx_gyzx/index.htm), Peking University. Currently I am also a visiting scholar at [School of Engineering and Applied Science(SEAS)](https://seas.harvard.edu/), Harvard University, supervised by [Associate Prof. Xin Li](https://scholar.harvard.edu/lixin).
 
-My research interest includes electrode materials, dislocations in 2D materials and 4D-STEM.
+My research interest includes utilizing machine learning to characterize 2D materials, soft matter and electrode materials.
 
 [Email](mailto:tianchengyu@fas.harvard.edu) / [Github](https://github.com/TianchengYu2001)
 
