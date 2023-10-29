@@ -32,7 +32,7 @@ Research experience
   * Peking University
   * Supervisor: Prof. Peng Gao
   * Research focused on: vortex-antivortex in STO/PTO superlattice, using EELS to study specific SPhP modes, 4D-STEM.
-  * Skills: HAADF-STEM, TEM, ABF, EDS, EELS, SPhPs, MATLAB coding, ion thinning, hand grinding and bonding.
+  * Skills: HAADF-STEM, ABF, EELS analysis, surface phonon polariton(SPhPs), MNPBEM simulation, MATLAB coding, GMS 3, ion thinning, hand grinding and bonding.
 
 * 2022.5 – 2023.4
   * Peking University
