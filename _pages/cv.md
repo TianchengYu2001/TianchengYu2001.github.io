@@ -20,7 +20,7 @@ Research experience
   * Harvard University
   * Supervisor: Associate Prof. Xin Li
   * Research focused on: Li/Na solid-state battery(SSB), alloy anode.
-  * Skills: metallurgy, electrochemistry, sintering techniques, XRD, SEM, EDS.
+  * Skills: metallurgy, electrochemistry, sintering techniques, Jade, PowDLL Converter, XRD, SEM, EDS.
 
 * 2023.6 - 2023.9 (online)
   * Rice University
