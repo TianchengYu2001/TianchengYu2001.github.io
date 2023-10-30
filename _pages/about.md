@@ -120,6 +120,8 @@ Honors and Awards
 
 Selected courses
 ======
+Major GPA: 3.80/4.00 (equivalent to an average score of 90)
+
  **• Physics**<br>
 Modern Physics **100**<br>
 Theoretical Mechanics A **98**<br>
@@ -140,4 +142,4 @@ Advanced Mathematics A **95**<br>
 Comprehensive Physics Experiment **93** (top 10% in General Physics Lab 1 required for enrollment)<br>
 Frontiers in Physics Experiment **90** (top 5% in Modern Physics Lab 1 required for enrollment)<br>
 
-(According to the policy at my college, no more than 40% of the class can score above 85 in any course.)
+(According to the policy at school of physics, no more than 40% of the class can score above 84(3.52/4.00) in any course.)
