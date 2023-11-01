@@ -100,5 +100,5 @@ Talks at Seminars
 
 <span style="text-decoration: underline;">Tiancheng Yu</span>, <i>Build a portable temperature and voltage measurement and statistical chart plotter device with ESP8266</i>, **Innovation Rapid Originals, Peking University**, <i>Jan 2022</i>.
 
-<span style="text-decoration: underline;">Tiancheng Yu</span>, Jiyi Wang, Shiyang Wang, Wantong Wang, Zhihang Li, Shuhan Tang, Dongze Zhang, <i>Bessel equations and their applications in physics</i>, **Mathematical Physics Methods Seminar, Peking University**, <i>Jan 2022</i>.
+<span style="text-decoration: underline;">Tiancheng Yu</span>, Jiyi Wang, Shiyang Zhang, Wantong Su, Zhihang Li, Shuhan Tang, Dongze Zhang, <i>Bessel equations and their applications in physics</i>, **Mathematical Physics Methods Seminar, Peking University**, <i>Jan 2022</i>.
 
