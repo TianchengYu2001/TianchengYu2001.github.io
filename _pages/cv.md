@@ -50,10 +50,10 @@ Honors and Awards
  **•** Lingjun Advanced Scholarship
 <span style="float: right;">Sept 2023</span>
 
- **•** Peking University “Merit Student” Award
+ **•** Peking University Merit Student Award
 <span style="float: right;">Sept 2023</span>
 
- **•** Peking University Challenge Cup Excellence Award
+ **•** Peking University Challenge Cup Excellence Prize
 <span style="float: right;">June 2023</span>
 
  **•** China Undergraduate Physics Experiment Competition(CUPEC) Innovation Award
