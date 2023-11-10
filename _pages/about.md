@@ -90,7 +90,7 @@ Honors and Awards
  **•** Lingjun Advanced Scholarship
 <span style="float: right;">Sept 2023</span>
 
- **•** Peking University “Merit Student” Award
+ **•** Peking University Merit Student Award
 <span style="float: right;">Sept 2023</span>
 
  **•** Peking University Challenge Cup Excellence Award
@@ -102,7 +102,7 @@ Honors and Awards
  **•** School of Physics Weiming Scholarship
 <span style="float: right;">June 2022 & Sept 2023</span>
 
- **•** Peking University Academic Excellence Award
+ **•** Peking University Academic Excellence Prize
 <span style="float: right;">Sept 2021</span>
 
  **•** School of Physics Shen Keqi Scholarship
