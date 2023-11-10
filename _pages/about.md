@@ -93,7 +93,7 @@ Honors and Awards
  **•** Peking University Merit Student Award
 <span style="float: right;">Sept 2023</span>
 
- **•** Peking University Challenge Cup Excellence Award
+ **•** Peking University Challenge Cup Excellence Prize
 <span style="float: right;">June 2023</span>
 
  **•** China Undergraduate Physics Experiment Competition(CUPEC) Innovation Award
@@ -102,7 +102,7 @@ Honors and Awards
  **•** School of Physics Weiming Scholarship
 <span style="float: right;">June 2022 & Sept 2023</span>
 
- **•** Peking University Academic Excellence Prize
+ **•** Peking University Academic Excellence Award
 <span style="float: right;">Sept 2021</span>
 
  **•** School of Physics Shen Keqi Scholarship
