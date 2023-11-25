@@ -19,25 +19,25 @@ Research experience
 * 2023.9 - 2024.2 (expected)
   * Harvard University
   * Supervisor: Associate Prof. Xin Li
-  * Research focused on: Li/Na solid-state battery(SSB), alloy anode.
+  * Research focused on: exploring advanced alloy anode solutions for enhancing the stability and performance of Li/Na solid-state batteries.
   * Skills: metallurgy, electrochemistry, sintering techniques, Jade, PowDLL Converter, XRD, SEM, EDS.
 
 * 2023.6 - 2023.9 (online)
   * Rice University
   * Supervisor: Assistant Prof. Yimo Han
-  * Research focused on: using cepstrum transformation, manifold and clustering to process massive 4D-STEM data.
+  * Research focused on: adopting an innovative approach to efficiently process massive 4D-STEM data without prior knowledge, utilizing cepstrum transformation, manifold, and clustering techniques.
   * Skills: abTEM multi-slice simulation, HDBSCAN clustering, manifold, python coding, Jupyter notebook, Team Viewer.
 
 * 2022.8 – 2023.5
   * Peking University
   * Supervisor: Prof. Peng Gao
-  * Research focused on: vortex-antivortex in STO/PTO superlattice, using EELS to study specific SPhP modes, 4D-STEM.
+  * Research focused on: observing vortex-antivortex in STO/PTO superlattice via STEM, using EELS to study specific SPhP modes.
   * Skills: HAADF-STEM, ABF, EELS analysis, surface phonon polariton(SPhPs), MNPBEM simulation, MATLAB coding, GMS 3, ion thinning, hand grinding and bonding.
 
 * 2022.5 – 2023.4
   * Peking University
   * Supervisor: Associate Prof. Luqun Zhou
-  * Research focused on: experiments of Faraday patterns in different liquids.
+  * Research focused on: utilizing machine learning to characterize a nonlinear fluid dynamics system (Faraday wave), proposing a semi-quantitative theoretical framework based on the Navier-Stokes equation and soliton theory to explain experimental phenomena.
   * Skills: fluid nonlinear dynamics, model exciter experiments, MATLAB coding, neural network, Origin.
 
 
