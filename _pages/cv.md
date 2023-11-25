@@ -28,7 +28,7 @@ Research experience
   * Research focused on: adopting an innovative approach to efficiently process massive 4D-STEM data without prior knowledge, utilizing cepstrum transformation, manifold, and clustering techniques.
   * Skills: abTEM multi-slice simulation, HDBSCAN clustering, manifold, python coding, Jupyter notebook, Team Viewer.
 
-* 2022.8 – 2023.5
+* 2022.10 – 2023.5
   * Peking University
   * Supervisor: Prof. Peng Gao
   * Research focused on: observing vortex-antivortex in STO/PTO superlattice via STEM, using EELS to study specific SPhP modes.
