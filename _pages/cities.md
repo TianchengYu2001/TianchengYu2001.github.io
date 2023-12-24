@@ -25,9 +25,11 @@ Hainan (Sanya)<br>
 Hubei (Wuhan)<br>
 
 **USA**<br>
-MA (Boston, Cambridge, Burlington, Lexington, Concord, Lincoln, Manchester, Gloucester, Rockport, Waltham, Worcester, Danvers)<br>
+MA (Boston, Cambridge, Burlington, Lexington, Concord, Lincoln, Manchester, Gloucester, Rockport, Waltham, Worcester, Danvers, Wachusett)<br>
 CT (New Haven, Hartford, New London)<br>
-RI (Providence)
+PA (Philadelphia)<br>
+RI (Providence)<br>
+NY (New York)
 
 **South Korea**<br>
 Seoul, Busan, Incheon
