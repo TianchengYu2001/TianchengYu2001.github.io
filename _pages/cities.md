@@ -25,6 +25,7 @@ Hainan (Sanya)<br>
 Hubei (Wuhan)<br>
 
 **USA**<br>
+Washington DC<br>
 MA (Boston, Cambridge, Burlington, Lexington, Concord, Lincoln, Manchester, Gloucester, Rockport, Waltham, Worcester, Danvers, Wachusett)<br>
 CT (New Haven, Hartford, New London)<br>
 PA (Philadelphia)<br>
