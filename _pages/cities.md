@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**China**<br>
+**China**<p>&#x1F1E8;&#x1F1F3; This is the flag of China emoji.</p> <br>
 Beijing, Shanghai, Tianjin, Chongqing, Hongkong<br>
 Xinjiang (Urumqi, Karamay, Turpan, Hami City, Ili, Aksu, Kashgar, Hotan, Altay)<br>
 Zhejiang (Hangzhou, Ningbo, Jiaxing, Huzhou, Shaoxing, Taizhou, Zhoushan)<br>
