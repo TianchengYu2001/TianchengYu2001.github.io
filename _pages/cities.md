@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**China**<p>&#x1F1E8;&#x1F1F3; This is the flag of China emoji.</p> <br>
+**China 🇨🇳**<br>
 Beijing, Shanghai, Tianjin, Chongqing, Hongkong<br>
 Xinjiang (Urumqi, Karamay, Turpan, Hami City, Ili, Aksu, Kashgar, Hotan, Altay)<br>
 Zhejiang (Hangzhou, Ningbo, Jiaxing, Huzhou, Shaoxing, Taizhou, Zhoushan)<br>
@@ -24,7 +24,7 @@ Fujian (Xiamen, Putian)<br>
 Hainan (Sanya)<br>
 Hubei (Wuhan)<br>
 
-**USA**<br>
+**USA 🇺🇸**<br>
 Washington DC<br>
 MA (Boston, Cambridge, Burlington, Lexington, Concord, Lincoln, Manchester, Gloucester, Rockport, Waltham, Worcester, Danvers, Wachusett)<br>
 CT (New Haven, Hartford, New London)<br>
@@ -32,11 +32,11 @@ PA (Philadelphia)<br>
 RI (Providence)<br>
 NY (New York)
 
-**South Korea**<br>
+**South Korea 🇰🇷**<br>
 Seoul, Busan, Incheon
 
-**UK**<br>
+**UK 🇬🇧**<br>
 London
 
-**Qatar**<br>
+**Qatar 🇶🇦**<br>
 Doha
