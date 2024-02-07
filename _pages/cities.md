@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 **China**<br>
-Beijing, Shanghai, Tianjin, Hongkong<br>
+Beijing, Shanghai, Tianjin, Chongqing, Hongkong<br>
 Xinjiang (Urumqi, Karamay, Turpan, Hami City, Ili, Aksu, Kashgar, Hotan, Altay)<br>
 Zhejiang (Hangzhou, Ningbo, Jiaxing, Huzhou, Shaoxing, Taizhou, Zhoushan)<br>
 Sichuan (Chengdu, Leshan, Deyang, Mianyang, Aba)<br>
@@ -34,6 +34,9 @@ NY (New York)
 
 **South Korea**<br>
 Seoul, Busan, Incheon
+
+**UK**<br>
+London
 
 **Qatar**<br>
 Doha
